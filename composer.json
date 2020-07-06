@@ -1,5 +1,5 @@
 {
-    "name": "zhujinkui/tp5-config",
+    "name": "zhujinkui/config",
     "description": "Get the configuration list class library in the database",
     "type": "library",
     "license": "Apache-2.0",
@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.*"
     },
     "autoload": {
         "psr-4": {
